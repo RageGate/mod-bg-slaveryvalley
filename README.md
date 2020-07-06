@@ -1,24 +1,14 @@
-# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
-
 # Custom Battleground Slavery Valley
 
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/icon.png)
+![SlaveryValley](/master/icon.png)
 
 ## Description
 
 This module add the battleground Slavery Valley.
 
-### How to get this module?
+### 
 
-The module is not open source, it is only for **AzerothCore contributors**, if you are an AC contributor rank 3 request this module to @Helias in our [discord server](https://discordapp.com/invite/gkt4y2x).  
-**If you are not a contributor yet, ask admins to get the contributor rank and afterward contact Helias on Discord.**
-
-There are many ways to [become a contributor](http://www.azerothcore.org/wiki/Contribute). You can help by sending PRs, testing PRs, improving the wiki, giving support to other users, etc... Contributing is not limited to programmers only, everyone is able to help. You too!
-
-In short words, you become a contributor if you make one of the followings:
-- have at least one Pull Request merged
-- test a few Pull Requests
-- write 3 new wiki pages or (1-2 big one)
+The module is open source, it is only for ,
 
 ### How the battleground works?
 
@@ -34,27 +24,18 @@ In short words, you become a contributor if you make one of the followings:
 - If one of the two bosses die, the other boss disappear.
 - The bosses (re)spawn after 5 minutes.
 
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/images/SlaveryValley_Map.png)
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/images/SlaveryValley.png)
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/images/SlaveryValley_night.png)
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/images/SlaveryValley-BG.png)
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/images/LoadScreen.png)
+![SlaveryValley](/master/images/SlaveryValley_Map.png)
+![SlaveryValley](/master/images/SlaveryValley.png)
+![SlaveryValley](/master/images/SlaveryValley_night.png)
+![SlaveryValley](/master/images/SlaveryValley-BG.png)
+![SlaveryValley](/master/images/LoadScreen.png)
 
 # Bosses
-![SlaveryValley](https://raw.githubusercontent.com/azerothcore/mod-bg-slaveryvalley/master/images/Bosses.png)
+![SlaveryValley](/master/images/Bosses.png)
 
 ## Requirements
-
-This module requires:
-
-- AzerothCore v2 from [this revision](https://github.com/azerothcore/azerothcore-wotlk/commit/75bf44d1684048b02bc338877fb11a62647a6896)
-
 
 ## Credits
 
 * [Snoopzz](http://www.modcraft.io/index.php?topic=10882.0)
-* [Helias](https://github.com/Helias)
-* [Knindza](https://github.com/Knindzagxg)
-* [Root#1633](https://github.com/cristian-root)
-
-AzerothCore: [repository](https://github.com/azerothcore) - [website](http://azerothcore.org/) - [discord chat community](https://discord.gg/PaqQRkd)
+* [newrage]
